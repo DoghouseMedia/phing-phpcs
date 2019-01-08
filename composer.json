@@ -1,5 +1,5 @@
 {
-    "name": "jorgegc/phing-phpcs",
+    "name": "doghouseagency/phing-phpcs",
     "description": "A collection of PHP_CodeSniffer targets for Phing.",
     "keywords": [
         "phing",
@@ -8,8 +8,8 @@
     "homepage": "https://github.com/jorgegc/phing-phpcs",
     "license": "GPL-2.0+",
     "support": {
-        "issues": "https://github.com/jorgegc/phing-phpcs",
-        "source": "https://github.com/jorgegc/phing-phpcs"
+        "issues": "https://github.com/DoghouseMedia/phing-phpcs",
+        "source": "https://github.com/DoghouseMedia/phing-phpcs"
     },
     "require": {
         "drupal/coder": "~8.2"
