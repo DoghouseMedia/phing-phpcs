@@ -5,7 +5,7 @@
         "phing",
         "phpcs"
     ],
-    "homepage": "https://github.com/jorgegc/phing-phpcs",
+    "homepage": "https://github.com/DoghouseMedia/phing-phpcs",
     "license": "GPL-2.0+",
     "support": {
         "issues": "https://github.com/DoghouseMedia/phing-phpcs",
